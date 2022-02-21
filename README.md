@@ -1,6 +1,6 @@
 # Dane Artis' Resume
 
-A place to host my Resume.
+A place to host my resume.
 
 Find it below:
 
