@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Dane Artis' Resume
+title: Dane Artis
 ---
 # Dane Artis
 
@@ -14,7 +14,7 @@ title: Dane Artis' Resume
 
 `Expected Graduation April 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-__3.6 GPA__ - _Bachelor of Science, Computer Science_
+_Bachelor of Science, Computer Science_ - __3.6 GPA__
 
 - Machine Learning Fundamentals Certificate
 - Functional Programming Certificate
