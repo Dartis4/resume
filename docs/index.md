@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Dane Artis's Resume
+title: Dane Artis
 ---
-
 # Dane Artis
 
 <div id="webaddress">
   <a href="mailto:art16002@byui.edu">Email</a>
-|  <a href="https://www.linkedin.com/in/dane-artis/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/dane-artis/">LinkedIn</a>
 | <a href="https://github.com/Dartis4">GitHub</a>
 </div>
 
