@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Dane Artis
+title: Dane Artis' Resume
 ---
 # Dane Artis
 
