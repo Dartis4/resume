@@ -13,8 +13,8 @@ title: Dane Artis
 ## Education
 
 `Expected Graduation April 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
-- _Bachelor of Science, Computer Science_ - __3.6 GPA__
+__Brigham Young University - Idaho__, Rexburg, ID 
+_Bachelor of Science, Computer Science_ - __3.6 GPA__
 
 - Machine Learning Fundamentals Certificate
 - Functional Programming Certificate
