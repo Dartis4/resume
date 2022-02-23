@@ -16,7 +16,6 @@ title: Dane Artis
 __Brigham Young University - Idaho__, Rexburg, ID 
 _Bachelor of Physical Science & Engineering, Computer Science_ - __3.6 GPA__
 
-- Machine Learning Fundamentals Certificate
 - Functional Programming Certificate
 
 `2022`
